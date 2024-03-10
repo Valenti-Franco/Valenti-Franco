@@ -3,14 +3,12 @@
 
 
 
-<div width="100%" align="center"><img align="left" width="100%" src="https://github.com/Valenti-Franco/Valenti-Franco/assets/94399375/4186646d-6b20-44ca-a7e5-6cff25a73178" />
-
-</div>
 
 
 
 
 
+![Franco Valenti](<Frame 19.webp>)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franco Valenti
